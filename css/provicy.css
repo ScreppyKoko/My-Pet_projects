@@ -1,0 +1,35 @@
+/********************** СТРАНИЦА PROVICY **********/
+
+.header__container_provicy>.header__logo {
+    font-size: 30px;
+}
+
+.policy__container {
+    padding: 0 30px;
+}
+
+.policy {
+    margin: 150px 0 100px 0;
+}
+
+.policy__title {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 170%;
+    margin: 20px 30px;
+}
+
+.policy__text {
+    font-size: 16px;
+    line-height: 150%;
+}
+
+.policy__text_link {
+    color: #ff7b47;
+}
+
+.policy__text_link:hover {
+    text-decoration: underline;
+}
